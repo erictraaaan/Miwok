@@ -5,4 +5,8 @@ Android app created as part of the Udacity Online Android Development course.  P
 
 Screenshots
 ===================================
+<img src=Family_framed.png" alt="Drawing" style="width: 200px;"/>
+
+
+
 ![alt tag](https://raw.githubusercontent.com/erictraaaan/Miwok/master/Family_framed.png =250x)
