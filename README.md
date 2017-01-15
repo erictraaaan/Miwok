@@ -5,4 +5,4 @@ Android app created as part of the Udacity Online Android Development course.  P
 
 Screenshots
 ===================================
-![alt tag](https://raw.githubusercontent.com/erictraaaan/Miwok/master/Family_framed.png | width=100)
+![alt tag](https://raw.githubusercontent.com/erictraaaan/Miwok/master/Family_framed.png =250x)
